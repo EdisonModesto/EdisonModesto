@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**EdisonModesto/EdisonModesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! I'm Edison.
 
-Here are some ideas to get you started:
+Nice to meet you! Let me tell you about myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+I'm a Flutter Developer from the Philippines with 2 years of experiencnce in creating apps for Android, iOS and Windows. I am also a college student at Pamantasan ng Lungsod ng Maynila currently taking Bachelor of Science in Computer Science.
+
+I am also a freelancer and a Mobile Dev Intern at the same time. My goal is to develop high quality apps for users to use and provide them with a wonderful user experience.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+## 🛠 Skills
+Flutter, Kotlin, Android Studio
+
