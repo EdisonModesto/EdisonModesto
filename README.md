@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edison Modesto</h1>
-<h3 align="center">I'm a PH-based Flutter Developer with over 3 years of professional experience in developing cross-platform applications using the Flutter framework. My goal is to develop cross-platform apps that create an impact on its users. I am also experienced in using a variety of tools that will help develop apps more faster and cleaner.</h3>
+<h3 align="center">I'm a PH-based Flutter Developer with over 3 years of professional experience in developing cross-platform applications using the Flutter framework. 
+ 
+ My goal is to develop cross-platform apps that create an impact on its users. I always strive to produce scaleable, reliable, and clean code to ensure the best user experience and performance for the users.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edisonmodesto&label=Profile%20views&color=0e75b6&style=flat" alt="edisonmodesto" /> </p>
 
