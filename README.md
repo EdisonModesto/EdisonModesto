@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edison Modesto</h1>
-<h3 align="center">I'm a Flutter Developer from the Philippines with 2 years of experience in creating apps for Android, iOS and Windows. I am also a college student at Pamantasan ng Lungsod ng Maynila currently taking Bachelor of Science in Computer Science. I am also a freelancer and a Mobile Dev Intern at the same time. My goal is to develop high quality apps for users to use and provide them with a wonderful user experience.</h3>
+<h3 align="center">I'm a Flutter Developer from the Philippines with 3 years of experience in creating apps for Android, iOS and Windows. I am also a college student at Pamantasan ng Lungsod ng Maynila currently taking Bachelor of Science in Computer Science. I am also a freelancer and a Mobile Dev Intern at the same time. My goal is to develop high quality apps for users to use and provide them with a wonderful user experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edisonmodesto&label=Profile%20views&color=0e75b6&style=flat" alt="edisonmodesto" /> </p>
 
