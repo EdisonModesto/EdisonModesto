@@ -1,31 +1,126 @@
-<h1 align="center">Hi 👋, I'm Edison Modesto</h1>
-<h3 align="center">I'm a PH-based Flutter Developer with over 3 years of professional experience in developing cross-platform applications using the Flutter framework. 
- 
- My goal is to develop cross-platform apps that create an impact on its users. I always strive to produce scaleable, reliable, and clean code to ensure the best user experience and performance for the users.</h3>
+## Hey there 👋, I'm [Edison Modesto](https://edisonmodesto.dev)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/edison-modesto-a65440219)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://fb.com/ed.modestoo)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://edisonmodesto.dev)
+
+### Glad to see you here!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edisonmodesto&label=Profile%20views&color=0e75b6&style=flat" alt="edisonmodesto" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/edison-modesto-a65440219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edison-modesto-a65440219" height="30" width="40" /></a>
-<a href="https://fb.com/ed.modestoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ed.modestoo" height="30" width="40" /></a>
+**Mid Software Engineer & Mobile App Product Builder** based in Sampaloc, Manila 🇵🇭. I build mobile products from first sketch to App Store release and beyond. The product comes first; the tool is just a detail.
+
+I've built and shipped mobile products across Android, iOS, and Huawei. I've led development at **Tripex PH**, delivered features at **Sandlot Technology Ventures / AHG Lab**, built apps at **Prosperna**, and shipped 10+ apps as a freelance Flutter developer with repeat clients from Hungary, Kuwait, and the Philippines.
+
+Open to full-time roles, product partnerships, and freelance work.
+
+Joined Github **5** years ago. I've built **28**+ public repositories since.
+
+<hr>
+
+<h3 align="left">✨ Random Dev Quote:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
- <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
- 
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+<hr>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/edisonmodesto"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="edisonmodesto" /></a></p><br><br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edisonmodesto&" alt="edisonmodesto" /></p>
+Like my work?
 
+<a href="https://ko-fi.com/edisonmodesto" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Support me on Ko-fi" height="60px" /></a>
+
+<img align="right" height="250" width="375" alt="Coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I build with Flutter, Dart, Firebase, Supabase, and AWS Amplify.
+- 🚀 &nbsp; I use Gemini, Codex, and Claude for AI-assisted development.
+- 🎤 &nbsp; I speak at Flutter PH, GDG on Campus, and DEVCON PH events.
+- 🏆 &nbsp; Five stars across 10+ freelance reviews.
+- 📫 &nbsp; Reach me at [edisonmodesto22@gmail.com](mailto:edisonmodesto22@gmail.com) or on [LinkedIn](https://linkedin.com/in/edison-modesto-a65440219).
+
+### Where I've Shipped:
+
+- 🧠 &nbsp; **Sereno Planner:** Focus-driven productivity SaaS on desktop, web, iOS, and Android
+- 🚵 &nbsp; **Timberland Mountain Bike Park:** Trail maps and reservation system for a mountain-bike destination
+- 💎 &nbsp; **Cebuana Lhuillier Jewelry:** E-commerce web app for a Philippine jewelry brand
+- 🌱 &nbsp; **ActNow Mobile:** Gamified app that rewards users for eco-friendly actions
+- ♿ &nbsp; **A11Y:** Accessibility app for inclusive movie-watching
+- 🗺️ &nbsp; **NVTours:** Tourism app with local guides and itinerary building
+
+### Languages and Tools:
+
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/dart/dart-original.svg" alt="dart"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase"></code>
+<code><img height="27" src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/react/react-original.svg" alt="react native"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/swift/swift-original.svg" alt="swift"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" alt="python"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/docker/docker-original.svg" alt="docker"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/android/android-original.svg" alt="android"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/apple/apple-original.svg" alt="ios"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/linux/linux-original.svg" alt="linux"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/figma/figma-original.svg" alt="figma"></code>
+
+### Projects and Dev Stuff:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdisonModesto&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonModesto&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EdisonModesto&hide_border=true" />
+</details>
+
+<details>
+  <summary><b>🎓 Certifications</b></summary>
+  <br />
+  <p>
+    <a href="https://www.credly.com/users/edison-modesto.6830ffae">
+      <img src="https://img.shields.io/badge/Google-AI%20Professional%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI" />
+    </a>
+    <a href="https://www.credly.com/users/edison-modesto.6830ffae">
+      <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Cybersecurity" />
+    </a>
+    <a href="https://www.credly.com/users/edison-modesto.6830ffae">
+      <img src="https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Intro Cybersecurity" />
+    </a>
+    <br/>
+    <sub>11 verified badges • <a href="https://www.credly.com/users/edison-modesto.6830ffae">View all on Credly →</a></sub>
+  </p>
+</details>
+
+<details>
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <ul>
+    <li><b>OS:</b> Linux & macOS</li>
+    <li><b>IDE:</b> VS Code & Android Studio</li>
+    <li><b>Design:</b> Figma & Adobe XD</li>
+    <li><b>Cloud:</b> Firebase, Supabase & AWS Amplify</li>
+    <li><b>AI:</b> Gemini, Claude & Codex</li>
+    <li><b>Terminal:</b> ZSH & Bash</li>
+    <li><b>Browser:</b> Chrome & Brave</li>
+    <li><b>To Stay Updated:</b> Flutter.dev, Reddit, X</li>
+  </ul>
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
